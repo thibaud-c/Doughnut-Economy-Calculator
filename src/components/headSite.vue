@@ -1,5 +1,5 @@
-<template>
-  <button class="button is-info is-light">Join the waiting list</button>
+<template lang="pug">
+  button.button.is-info.is-light Join the waiting list
 </template>
 
 <script>

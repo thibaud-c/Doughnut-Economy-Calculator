@@ -1,7 +1,10 @@
 <template>
   <footer class="footer">
     <div class="content has-text-centered is-small">
-      <p>2021 - Doughtnut Calculator - Milica & Thibaud.</p>
+      <p>
+        2021 - Doughnut Economy Calculator - Milica Mihailovic & Thibaud
+        Chassin.
+      </p>
       <p>
         Photo by
         <a
