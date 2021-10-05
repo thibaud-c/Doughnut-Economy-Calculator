@@ -1,9 +1,7 @@
 <template>
-  <v-app>
-    <navBar />
-    <headSite />
-    <bottomBar />
-  </v-app>
+  <navBar />
+  <headSite />
+  <bottomBar />
 </template>
 
 <script>
