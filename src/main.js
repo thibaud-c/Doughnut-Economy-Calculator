@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import 'bulma/css/bulma.min.css';
+import './index.css'
 
 const app = createApp(App);
 
